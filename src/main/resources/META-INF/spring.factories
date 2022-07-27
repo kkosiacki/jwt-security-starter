@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+osom.company.jwtsecuritystarter.config.SecurityConfiguration, \
+osom.company.jwtsecuritystarter.config.SerenityConfiguration
